@@ -11,6 +11,8 @@
 | 3   | [What is Async/Await?](https://youtu.be/HKTqTlX45No)         |
 | 4   | ['this' Keyword](https://youtu.be/JIs0SLRaH30)               |
 | 5   | [All about Functions](https://youtu.be/D4y2egsgZA8)          |
+| 6   | [All about Arrays](https://youtu.be/bwC5HmpZtPQ)             |
+| 7   | [All about Array Methods](https://youtu.be/y4D-lG6gUQ0)      |
 
 ### Check the playlist on [Youtube](https://youtube.com/playlist?list=PLWgH1O_994O-W_U8_633jRg2Ii8mtexRY)
 

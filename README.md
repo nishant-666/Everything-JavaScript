@@ -13,6 +13,9 @@
 | 5   | [All about Functions](https://youtu.be/D4y2egsgZA8)          |
 | 6   | [All about Arrays](https://youtu.be/bwC5HmpZtPQ)             |
 | 7   | [All about Array Methods](https://youtu.be/y4D-lG6gUQ0)      |
+| 8   | [Value V/S Reference](https://youtu.be/-zXLLOC5Hpc)          |
+| 9   | [Uses of '?' in JavaScript](https://youtu.be/_1deTbNoIrw)    |
+| 10  | [Closures in JavaScript](https://youtu.be/VpF2kSaq1bA)       |
 
 ### Check the playlist on [Youtube](https://youtube.com/playlist?list=PLWgH1O_994O-W_U8_633jRg2Ii8mtexRY)
 

@@ -16,10 +16,11 @@
 | 8 | [Value V/S Reference](https://youtu.be/-zXLLOC5Hpc) |
 | 9 | [Uses of '?' in JavaScript](https://youtu.be/_1deTbNoIrw) |
 | 10 | [Closures in JavaScript](https://youtu.be/VpF2kSaq1bA) |
-| 11 | [Implementing Stack, Queue, and Linked List](https://youtu.be/OIjprSwksK0) |
-| 12 | [Implementing Binary Search Tree](https://youtu.be/9rsYPJ2fA88) |
-| 13 | [Recursion in JavaScript](https://youtu.be/Ygu5kqMfP8U) |
-
+| 11 | [Recursion in JavaScript](https://youtu.be/Ygu5kqMfP8U) |
+| 12 | [Destructuring Assignment in JavaScript](https://youtu.be/n7iAiugWsNo) |
+| 13 | [Call, Apply, and Bind Methods in JavaScript](https://youtu.be/ZgCQRmtfXBo) |
+| 14 | [Debouncing and Throttling in JavaScript](https://youtu.be/jYdBQyBT0xs) |
+| 15 | [LocalStorage and SessionStorage](https://youtu.be/tX9F7PYRxJs) |
 
 ### Check the playlist on [Youtube](https://youtube.com/playlist?list=PLWgH1O_994O-W_U8_633jRg2Ii8mtexRY)
 

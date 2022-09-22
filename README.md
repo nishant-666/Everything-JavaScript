@@ -21,7 +21,9 @@
 | 13 | [Call, Apply, and Bind Methods in JavaScript](https://youtu.be/ZgCQRmtfXBo) |
 | 14 | [Debouncing and Throttling in JavaScript](https://youtu.be/jYdBQyBT0xs) |
 | 15 | [LocalStorage and SessionStorage](https://youtu.be/tX9F7PYRxJs) |
-
+| 16 | [Polyfills in JavaScript](https://youtu.be/JEeo28Fhsk0) |
+| 17 | [Micro Tasks vs Macro Tasks](https://youtu.be/2Np2lxYx0l4) |
+| 18 | [IIFE(Immediately Invoked Function Expressions)](https://youtu.be/RYfkAuO0wdU) |
 ### Check the playlist on [Youtube](https://youtube.com/playlist?list=PLWgH1O_994O-W_U8_633jRg2Ii8mtexRY)
 
 **Note:** This repository and the **Youtube** playlist is still under construction.
